@@ -6,5 +6,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Car {
-    private int speed;
+    private Integer speed;
 }
